@@ -4,7 +4,7 @@ orch/Lib
 orch/Scripts
 orch/__pycache__
 orch/pyvenv.cfg
-
+orch/node_modules
 # testing
 frontend/coverage
 
